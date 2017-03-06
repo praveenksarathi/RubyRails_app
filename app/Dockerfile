@@ -1,4 +1,4 @@
-FROM ruby:2.2.1
+FROM ruby:2.2.3
 MAINTAINER Mook <mookjpy@gmail.com>
 
 # Install nginx with passenger
